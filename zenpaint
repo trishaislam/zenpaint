@@ -1,0 +1,16 @@
+{}
+
+function setup () {
+  createCanvas (600, 400);
+  //background
+  background (450, 50, 100); 
+}
+function draw (){
+  
+//ellipse
+  stroke(155, 04, 2000);; 
+  fill(250,200,200);
+  ellipse(mouseX,mouseY, 50,50);}
+  
+
+  
